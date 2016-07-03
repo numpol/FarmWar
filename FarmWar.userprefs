@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dead.cs">
+    <Files>
+      <File FileName="Assets/Move.cs" Line="10" Column="3" />
+      <File FileName="Assets/PlayerController.cs" Line="67" Column="1" />
+      <File FileName="Assets/Jump.cs" Line="17" Column="1" />
+      <File FileName="Assets/Fly.cs" Line="27" Column="1" />
+      <File FileName="Assets/Bomb.cs" Line="65" Column="6" />
+      <File FileName="Assets/Rigidbody2DExtension.cs" Line="3" Column="1" />
+      <File FileName="Assets/GameController.cs" Line="28" Column="38" />
+      <File FileName="Assets/Dead.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

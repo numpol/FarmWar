@@ -1,0 +1,17 @@
+/Users/apple/FarmWar/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/FarmWar/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/apple/FarmWar/obj/Debug/Assembly-CSharp.dll
+/Users/apple/FarmWar/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/FarmWar/Temp/bin/Debug/UnityEngine.dll
+/Users/apple/FarmWar/Temp/bin/Debug/UnityEditor.dll
+/Users/apple/FarmWar/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apple/FarmWar/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apple/FarmWar/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apple/FarmWar/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apple/FarmWar/Temp/bin/Debug/Mono.Cecil.Mdb.dll
